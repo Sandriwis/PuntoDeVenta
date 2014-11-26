@@ -1,0 +1,31 @@
+C:\DUOC\BaseDeDatos\SqlServer\Clase2014_04_U2\ProyectoPuntoDeVenta_S2\PuntoDeVentas\Libreria\bin\Debug\Libreria.dll
+C:\DUOC\BaseDeDatos\SqlServer\Clase2014_04_U2\ProyectoPuntoDeVenta_S2\PuntoDeVentas\Libreria\bin\Debug\Libreria.pdb
+C:\DUOC\BaseDeDatos\SqlServer\Clase2014_04_U2\ProyectoPuntoDeVenta_S2\PuntoDeVentas\Libreria\obj\Debug\Libreria.dll
+C:\DUOC\BaseDeDatos\SqlServer\Clase2014_04_U2\ProyectoPuntoDeVenta_S2\PuntoDeVentas\Libreria\obj\Debug\Libreria.pdb
+C:\Users\clases\Desktop\ProyectoPuntoDeVenta_S2_V5_iniciotrabajo\ProyectoPuntoDeVenta_S2\PuntoDeVentas\Libreria\bin\Debug\Libreria.dll
+C:\Users\clases\Desktop\ProyectoPuntoDeVenta_S2_V5_iniciotrabajo\ProyectoPuntoDeVenta_S2\PuntoDeVentas\Libreria\bin\Debug\Libreria.pdb
+C:\Users\clases\Desktop\ProyectoPuntoDeVenta_S2_V5_iniciotrabajo\ProyectoPuntoDeVenta_S2\PuntoDeVentas\Libreria\obj\Debug\Libreria.dll
+C:\Users\clases\Desktop\ProyectoPuntoDeVenta_S2_V5_iniciotrabajo\ProyectoPuntoDeVenta_S2\PuntoDeVentas\Libreria\obj\Debug\Libreria.pdb
+C:\Users\Administrador\Desktop\ProyectoPuntoDeVenta_S2_V5_iniciotrabajo 15-10\ProyectoPuntoDeVenta_S2_V5_iniciotrabajo\ProyectoPuntoDeVenta_S2\PuntoDeVentas\Libreria\obj\Debug\Libreria.pdb
+C:\Users\Administrador\Desktop\ProyectoPuntoDeVenta_S2_V5_iniciotrabajo 15-10\ProyectoPuntoDeVenta_S2_V5_iniciotrabajo\ProyectoPuntoDeVenta_S2\PuntoDeVentas\Libreria\bin\Debug\Libreria.dll
+C:\Users\Administrador\Desktop\ProyectoPuntoDeVenta_S2_V5_iniciotrabajo 15-10\ProyectoPuntoDeVenta_S2_V5_iniciotrabajo\ProyectoPuntoDeVenta_S2\PuntoDeVentas\Libreria\bin\Debug\Libreria.pdb
+C:\Users\Administrador\Desktop\ProyectoPuntoDeVenta_S2_V5_iniciotrabajo 15-10\ProyectoPuntoDeVenta_S2_V5_iniciotrabajo\ProyectoPuntoDeVenta_S2\PuntoDeVentas\Libreria\obj\Debug\Libreria.dll
+I:\ProyectoPuntoDeVenta_S2_V5_iniciotrabajo 15-10\ProyectoPuntoDeVenta_S2_V5_iniciotrabajo\ProyectoPuntoDeVenta_S2\PuntoDeVentas\Libreria\bin\Debug\Libreria.dll
+I:\ProyectoPuntoDeVenta_S2_V5_iniciotrabajo 15-10\ProyectoPuntoDeVenta_S2_V5_iniciotrabajo\ProyectoPuntoDeVenta_S2\PuntoDeVentas\Libreria\bin\Debug\Libreria.pdb
+I:\ProyectoPuntoDeVenta_S2_V5_iniciotrabajo 15-10\ProyectoPuntoDeVenta_S2_V5_iniciotrabajo\ProyectoPuntoDeVenta_S2\PuntoDeVentas\Libreria\obj\Debug\Libreria.csprojResolveAssemblyReference.cache
+I:\ProyectoPuntoDeVenta_S2_V5_iniciotrabajo 15-10\ProyectoPuntoDeVenta_S2_V5_iniciotrabajo\ProyectoPuntoDeVenta_S2\PuntoDeVentas\Libreria\obj\Debug\Libreria.dll
+I:\ProyectoPuntoDeVenta_S2_V5_iniciotrabajo 15-10\ProyectoPuntoDeVenta_S2_V5_iniciotrabajo\ProyectoPuntoDeVenta_S2\PuntoDeVentas\Libreria\obj\Debug\Libreria.pdb
+F:\ProyectoPuntoDeVenta_S2_V5_Karen Campos\ProyectoPuntoDeVenta_S2_V5_ Karen Campos\ProyectoPuntoDeVenta_S2\PuntoDeVentas\Libreria\bin\Debug\Libreria.dll
+F:\ProyectoPuntoDeVenta_S2_V5_Karen Campos\ProyectoPuntoDeVenta_S2_V5_ Karen Campos\ProyectoPuntoDeVenta_S2\PuntoDeVentas\Libreria\bin\Debug\Libreria.pdb
+F:\ProyectoPuntoDeVenta_S2_V5_Karen Campos\ProyectoPuntoDeVenta_S2_V5_ Karen Campos\ProyectoPuntoDeVenta_S2\PuntoDeVentas\Libreria\obj\Debug\Libreria.csprojResolveAssemblyReference.cache
+F:\ProyectoPuntoDeVenta_S2_V5_Karen Campos\ProyectoPuntoDeVenta_S2_V5_ Karen Campos\ProyectoPuntoDeVenta_S2\PuntoDeVentas\Libreria\obj\Debug\Libreria.dll
+F:\ProyectoPuntoDeVenta_S2_V5_Karen Campos\ProyectoPuntoDeVenta_S2_V5_ Karen Campos\ProyectoPuntoDeVenta_S2\PuntoDeVentas\Libreria\obj\Debug\Libreria.pdb
+C:\Users\clases\Desktop\ProyectoPuntoDeVenta_S2_V5_ Karen Campos\ProyectoPuntoDeVenta_S2\PuntoDeVentas\Libreria\bin\Debug\Libreria.dll
+C:\Users\clases\Desktop\ProyectoPuntoDeVenta_S2_V5_ Karen Campos\ProyectoPuntoDeVenta_S2\PuntoDeVentas\Libreria\bin\Debug\Libreria.pdb
+C:\Users\clases\Desktop\ProyectoPuntoDeVenta_S2_V5_ Karen Campos\ProyectoPuntoDeVenta_S2\PuntoDeVentas\Libreria\obj\Debug\Libreria.csprojResolveAssemblyReference.cache
+C:\Users\clases\Desktop\ProyectoPuntoDeVenta_S2_V5_ Karen Campos\ProyectoPuntoDeVenta_S2\PuntoDeVentas\Libreria\obj\Debug\Libreria.dll
+C:\Users\clases\Desktop\ProyectoPuntoDeVenta_S2_V5_ Karen Campos\ProyectoPuntoDeVenta_S2\PuntoDeVentas\Libreria\obj\Debug\Libreria.pdb
+C:\Users\Sandra\Desktop\ProyectoPuntoDeVenta_S2_V5_ Karen Campos\ProyectoPuntoDeVenta_S2\PuntoDeVentas\Libreria\bin\Debug\Libreria.dll
+C:\Users\Sandra\Desktop\ProyectoPuntoDeVenta_S2_V5_ Karen Campos\ProyectoPuntoDeVenta_S2\PuntoDeVentas\Libreria\bin\Debug\Libreria.pdb
+C:\Users\Sandra\Desktop\ProyectoPuntoDeVenta_S2_V5_ Karen Campos\ProyectoPuntoDeVenta_S2\PuntoDeVentas\Libreria\obj\Debug\Libreria.dll
+C:\Users\Sandra\Desktop\ProyectoPuntoDeVenta_S2_V5_ Karen Campos\ProyectoPuntoDeVenta_S2\PuntoDeVentas\Libreria\obj\Debug\Libreria.pdb
